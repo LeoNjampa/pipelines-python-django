@@ -7,7 +7,7 @@ For information on how to use this repository, see [Python](https://docs.microso
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
 | Build image and push to Docker Hub (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-dockerhub)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=14) |
 | Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=15) |
-Leo Test Build (Test)| [!Build status](https://dev.azure.com/leonjampa/My1stPipeline/_apis/build/status/LeoNjampa.pipelines-python-django?branchName=master)](https://dev.azure.com/leonjampa/My1stPipeline/_build/latest?definitionId=1&branchName=master)|
+Leo Test Build (Test)| [![Build Status](https://dev.azure.com/leonjampa/My1stPipeline/_apis/build/status/LeoNjampa.pipelines-python-django?branchName=master)](https://dev.azure.com/leonjampa/My1stPipeline/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
